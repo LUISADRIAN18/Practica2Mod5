@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Practica2Mod5</string>
+    <string name="titulo">Título</string>
+    <string name="genero">Género</string>
+    <string name="año">Año</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="imgGenre">Imagen de Géneros</string>
+    <string name="errorVacio">no pueden quedar vacío</string>
+    <string name="camposVacios">Por favor llene todos los campos</string>
+    <string name="errorGuardarDb">Error al guardar registro!!</string>
+    <string name="registroGuardarDb">Registro Guardado Exitosamente</string>
+
+
+    <string name="gTerror">Terror</string>
+    <string name="gFantasia">Fantasía</string>
+    <string name="gComedia">Comedia</string>
+    <string name="gRomance">Romance</string>
+    <string name="btnUpdate">Actualizar</string>
+    <string name="btnborrar">Borrar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="registroNoAc">Error Registro No Actualizado</string>
+    <string name="registroAc">Registro actualizado Exitosamente</string>
+    <string name="deleteExito">Registro eliminado con exito</string>
+    <string name="deleteNoExito">Registro No eliminado error</string>
+    <string name="bienvenida">Hola bienvenido, Registra tus peliculas favoritas</string>
+    <string name="titleAlertDialog">Confirmación</string>
+    <string name="messAlert">¿Relamente deseas eliminar registro?</string>
+    <string name="acepp">Aceptar</string>
+    <string name="cancelDele">Cancelar</string>
+
+
+    <string-array name="generos">
+
+
+        <item>@string/gTerror</item>
+        <item>@string/gFantasia</item>
+        <item>@string/gComedia</item>
+        <item>@string/gRomance</item>
+
+    </string-array>
+
+
+</resources>
